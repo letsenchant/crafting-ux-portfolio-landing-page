@@ -1,4 +1,4 @@
-# Circle of Mana — Home landing page
+# Crafting UX Portfolio — Home landing page
 Hosted using GitHub pages, working off the `master` branch of this repo.
 
 To build:
