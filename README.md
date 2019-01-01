@@ -13,6 +13,6 @@ To build:
 
 To deploy to GH Pages:
 
-  1. Run `git subtree split --branch gh-pages --prefix _public/`
+  1. Run `git subtree push --prefix _public/ origin gh-pages`
   2. That'll push the `_public/` dir to the `gh-pages` branch, and GitHub
   will take care of the rest
