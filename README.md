@@ -10,3 +10,9 @@ To build:
   5. Should be able to open http://localhost:3000 and see your junk!
 
 ✌️
+
+To deploy to GH Pages:
+
+  1. Run `git subtree split --branch gh-pages --prefix _public/`
+  2. That'll push the `_public/` dir to the `gh-pages` branch, and GitHub
+  will take care of the rest
